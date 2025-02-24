@@ -1,4 +1,3 @@
-![Metrics](/github-metrics.svg)
 <div align="center">
 
   <!-- knock code pictures 敲代码的图片 -->
