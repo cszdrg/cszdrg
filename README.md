@@ -83,7 +83,7 @@
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Peter-JXL&theme=light&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=cszdrg&theme=light&hide_border=true" />
   <img src="https://streak-stats.demolab.com/?user=cszdrg&theme=dark&hide_border=true" />
 </picture>
 
