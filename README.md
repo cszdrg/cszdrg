@@ -30,7 +30,7 @@
 <!-- <img align="right" width="88" src="" /> -->
 
 <p>&emsp;&emsp;嗨，我是正在学习！。热爱编程、编程、编程。</p>
-<p>&emsp;&emsp;想要躺平人生，却又被生活所迫。ヾ(´∀｀。ヾ)</p>
+<p>&emsp;&emsp;是git小萌新！初来乍到，请多多指教。ヾ(´∀｀。ヾ)</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
