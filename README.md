@@ -81,14 +81,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cszdrg)
 
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=cszdrg&theme=light&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=cszdrg&theme=dark&hide_border=true" />
-</picture>
-
-
-
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>
