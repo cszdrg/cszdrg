@@ -77,16 +77,14 @@
 <img src="/github-metrics.svg" />
 
 <!-- GitHub 数据统计 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cszdrg)
 
-<img src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Peter-JXL&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
-
-<img src  = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Peter-JXL&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cszdrg)
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Peter-JXL&theme=light&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=Peter-JXL&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=cszdrg&theme=dark&hide_border=true" />
 </picture>
 
 
@@ -96,9 +94,9 @@
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=Peter-JXL&theme=tokyo-night" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Peter-JXL&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Peter-JXL&theme=tokyo-night" />
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=cszdrg&theme=minimal" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cszdrg&theme=minimal" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=cszdrg&theme=minimal" />
       </picture>
   </tr>
 </table>
