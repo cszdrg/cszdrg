@@ -31,8 +31,8 @@
 
 <p>&emsp;&emsp;嗨，我是正在学习！。热爱编程、编程、编程。</p>
 <p>&emsp;&emsp;是git小萌新！初来乍到，请多多指教。ヾ(´∀｀。ヾ)</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;学无止境，我相信我会在coding的路上一直走下去！</p>
+<p>&emsp;&emsp;<strong>Yesterday is history. Tomorrow is a mystery. But today is a gift. That is why it’s called the present.‌</strong></p>
 
 
   <!-- for beauty 留个空行好看点 -->
