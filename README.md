@@ -15,7 +15,7 @@ AI infrastructure & high-performance systems.
 I work on **AI infrastructure and high-performance computing**,  
 with a focus on **operator optimization, GPU computing, and distributed training**.
 
-Currently working on **PaddleFormers**, focusing on performance optimization
+Currently working on **PaddleFleet**, focusing on performance optimization
 and system-level improvements for large-scale model training.
 
 ---
